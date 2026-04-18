@@ -1,0 +1,21 @@
+Cyclone Preparedness Guidelines — National Disaster Management Authority (NDMA).
+
+India's east coast (Bay of Bengal) is highly cyclone-prone. Andhra Pradesh, Odisha, West Bengal, and Tamil Nadu are most affected.
+
+Cyclone alert levels (IMD):
+- Pre-Cyclone Watch: 72 hours before landfall
+- Cyclone Alert: 48 hours before landfall
+- Cyclone Warning: 24 hours before landfall
+- Post-Landfall Outlook
+
+Actions before landfall:
+- Move to a cyclone shelter or pucca building on higher ground.
+- Stock emergency supplies: water, food, medicines, torch, radio.
+- Board up windows and doors. Secure loose objects.
+
+Coastal evacuation:
+- Follow directions of local authorities for evacuation routes.
+- Identify nearest cyclone shelters. India has 8,900+ multi-purpose cyclone shelters on the east coast.
+- Do not stay in coastal areas during high surge warnings.
+
+SACHET (System for Advisories, Cyclone and Heavy rainfall Early warning Tools) issues real-time CAP alerts via NDMA. RSS feed: https://sachet.ndma.gov.in/CapFeed

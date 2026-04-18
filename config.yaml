@@ -1,0 +1,32 @@
+data:
+  docs_dir: data/docs
+  geo_dir: data/geo
+  refugee_camps_file: data/refugee_camps.json
+
+osm:
+  default_radius_m: 5000
+  max_per_category: 10
+  timeout_sec: 90
+
+retrieval:
+  top_k: 5
+  max_docs: 200           # cap total RAG documents ingested in memory
+  max_query_chars: 2000
+
+scoring:
+  flood_prior_weight: 0.3
+  landslide_prior_weight: 0.3
+  time_decay_hours: 24
+  safe_threshold: 0.3
+  unsafe_threshold: 0.7
+
+reasoning:
+  model: nvidia/nemotron-3-nano-30b-a3b
+  base_url: https://integrate.api.nvidia.com/v1
+  temperature: 0.2
+  max_tokens: 1024
+
+embeddings:
+  model: nvidia/nv-embedqa-e5-v5
+  base_url: https://integrate.api.nvidia.com/v1
+  fallback_dim: 1024

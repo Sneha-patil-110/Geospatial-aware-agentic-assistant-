@@ -1,0 +1,20 @@
+India Landslide Atlas — Frequency and Susceptibility by State/District (NRSC/ISRO).
+
+The National Landslide Atlas of India (2023) was prepared by NRSC using satellite data covering 1998–2022.
+
+Key findings:
+- Over 80,000 landslides recorded in 17 states over 24 years
+- Top 5 states by event count: Uttarakhand, Himachal Pradesh, Jammu & Kashmir, Kerala, Arunachal Pradesh
+
+Very high susceptibility districts:
+- Uttarakhand: Chamoli, Rudraprayag, Pithoragarh, Uttarkashi
+- Himachal Pradesh: Kinnaur, Kullu, Lahaul & Spiti, Mandi
+- Jammu & Kashmir: Ramban, Doda, Kishtwar
+- Kerala: Idukki, Wayanad, Palakkad
+- West Bengal: Darjeeling, Kalimpong
+- Sikkim: North Sikkim, East Sikkim
+- Arunachal Pradesh: Tawang, West Kameng
+
+Monsoon correlation: 70% of landslides in India occur during June–September monsoon. Rainfall >100mm/day is a key trigger.
+
+Road corridors affected: NH7 (Manali-Leh), NH58 (Rishikesh-Badrinath), NH22 (Shimla-Tibetan border).

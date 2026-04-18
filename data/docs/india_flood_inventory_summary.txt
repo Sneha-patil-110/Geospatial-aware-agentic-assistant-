@@ -1,0 +1,21 @@
+India Flood Inventory — District-level risk summary (NRSC/ISRO data).
+
+The India Flood Inventory (IFI) is a national dataset compiled by NRSC (National Remote Sensing Centre) and ISRO using satellite imagery from 1998 onwards.
+
+High flood-frequency districts (historical):
+- Assam: Dhubri, Barpeta, Kamrup, Dibrugarh — annual monsoon flooding
+- Bihar: Darbhanga, Muzaffarpur, Sitamarhi, Supaul — Kosi and Gandak river flooding
+- West Bengal: Murshidabad, Nadia, Malda — Ganga flooding
+- Uttar Pradesh: Bahraich, Lakhimpur Kheri — Himalayan river flooding
+- Odisha: Kendrapara, Cuttack, Jagatsinghpur — river and coastal flooding
+- Andhra Pradesh: East Godavari, West Godavari, Krishna — delta flooding
+- Kerala: Ernakulam, Thrissur, Pathanamthitta — 2018 catastrophic floods
+- Maharashtra: Kolhapur, Sangli, Raigad — Krishna and Konkan coastal flooding
+
+Flood causes:
+- Monsoon intensification (June–September)
+- Himalayan river snowmelt (March–May)
+- Cyclone storm surge (October–November, east coast)
+- Urban flooding from drainage failures
+
+Districts with highest flood frequency score (>0.7): Dhubri (Assam), Darbhanga (Bihar), Murshidabad (WB), Kendrapara (Odisha).

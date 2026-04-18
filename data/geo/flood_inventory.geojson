@@ -1,0 +1,7445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "patna",
+        "state": "BIHAR",
+        "risk_score": 1.0,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "murshidabad",
+        "state": "WEST BENGAL",
+        "risk_score": 0.9798,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "thane",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.9773,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "guntur",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.9757,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "north twenty four pargan*",
+        "state": "WEST BENGAL",
+        "risk_score": 0.9725,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nagpur",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.9682,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "purba medinipur",
+        "state": "WEST BENGAL",
+        "risk_score": 0.9518,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lakhimpur",
+        "state": "ASSAM",
+        "risk_score": 0.9501,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gorakhpur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.9483,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "purba champaran",
+        "state": "BIHAR",
+        "risk_score": 0.9479,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kota",
+        "state": "RAJASTHAN",
+        "risk_score": 0.9476,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "muzaffarpur",
+        "state": "BIHAR",
+        "risk_score": 0.9475,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ballia",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.9472,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "maldah",
+        "state": "WEST BENGAL",
+        "risk_score": 0.946,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "aurangabad",
+        "state": "BIHAR",
+        "risk_score": 0.9458,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rajkot",
+        "state": "GUJARAT",
+        "risk_score": 0.945,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "cachar",
+        "state": "ASSAM",
+        "risk_score": 0.9399,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ahmadabad",
+        "state": "GUJARAT",
+        "risk_score": 0.9387,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "aurangabad",
+        "state": "BIHAR",
+        "risk_score": 0.9378,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bahraich",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.9366,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dibrugarh",
+        "state": "ASSAM",
+        "risk_score": 0.9362,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "prayagraj",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.9361,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chamoli",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.9356,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "darjiling",
+        "state": "WEST BENGAL",
+        "risk_score": 0.9336,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jalpaiguri",
+        "state": "WEST BENGAL",
+        "risk_score": 0.9328,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "azamgarh",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.9301,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pashchim champaran",
+        "state": "BIHAR",
+        "risk_score": 0.929,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "amravati",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.9278,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "medinipur west",
+        "state": "WEST BENGAL",
+        "risk_score": 0.9258,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "samastipur",
+        "state": "BIHAR",
+        "risk_score": 0.9203,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "darbhanga",
+        "state": "BIHAR",
+        "risk_score": 0.9194,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "alappuzha",
+        "state": "KERALA",
+        "risk_score": 0.9184,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "surat",
+        "state": "GUJARAT",
+        "risk_score": 0.9164,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kachchh",
+        "state": "GUJARAT",
+        "risk_score": 0.9155,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shimla",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.9131,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bhagalpur",
+        "state": "BIHAR",
+        "risk_score": 0.9121,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "madhubani",
+        "state": "BIHAR",
+        "risk_score": 0.9121,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "raigarh",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.9104,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bharuch",
+        "state": "GUJARAT",
+        "risk_score": 0.9103,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nanded",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.9098,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hamirpur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.9086,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nadia",
+        "state": "WEST BENGAL",
+        "risk_score": 0.9085,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dhemaji",
+        "state": "ASSAM",
+        "risk_score": 0.9084,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pune",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.908,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kamrup",
+        "state": "ASSAM",
+        "risk_score": 0.9073,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sitapur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.9069,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "deoria",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.9063,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kheri",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.906,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hooghly",
+        "state": "WEST BENGAL",
+        "risk_score": 0.906,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "agra",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.9048,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ganjam",
+        "state": "ODISHA",
+        "risk_score": 0.9047,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "cuttack",
+        "state": "ODISHA",
+        "risk_score": 0.9041,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "begusarai",
+        "state": "BIHAR",
+        "risk_score": 0.9021,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "katihar",
+        "state": "BIHAR",
+        "risk_score": 0.8995,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "thiruvananthapuram",
+        "state": "KERALA",
+        "risk_score": 0.899,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bankura",
+        "state": "WEST BENGAL",
+        "risk_score": 0.8974,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "baleshwar",
+        "state": "ODISHA",
+        "risk_score": 0.8973,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "malappuram",
+        "state": "KERALA",
+        "risk_score": 0.8965,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "raigarh",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.8964,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sawai madhopur",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8961,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nagaon",
+        "state": "ASSAM",
+        "risk_score": 0.8932,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kurnool",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.8931,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "basti",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8919,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "varanasi",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8916,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "visakhapatnam",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.8915,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "thrissur",
+        "state": "KERALA",
+        "risk_score": 0.8912,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bara banki",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8912,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "karimganj",
+        "state": "ASSAM",
+        "risk_score": 0.8909,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tinsukia",
+        "state": "ASSAM",
+        "risk_score": 0.8907,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kottayam",
+        "state": "KERALA",
+        "risk_score": 0.89,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pratapgarh",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8899,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "saran",
+        "state": "BIHAR",
+        "risk_score": 0.8893,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hamirpur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8881,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kolhapur",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8877,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bharatpur",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8876,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "supaul",
+        "state": "BIHAR",
+        "risk_score": 0.8866,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kannur",
+        "state": "KERALA",
+        "risk_score": 0.8864,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "barpeta",
+        "state": "ASSAM",
+        "risk_score": 0.8845,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "khagaria",
+        "state": "BIHAR",
+        "risk_score": 0.8843,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "etawah",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8843,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jammu",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.8832,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "cooch behar",
+        "state": "WEST BENGAL",
+        "risk_score": 0.8832,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "saharanpur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8829,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ratnagiri",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8821,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "east godavari",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.8819,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "saharsa",
+        "state": "BIHAR",
+        "risk_score": 0.8818,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "thanjavur",
+        "state": "TAMIL NADU",
+        "risk_score": 0.8799,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "meerut",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8797,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "howrah",
+        "state": "WEST BENGAL",
+        "risk_score": 0.8789,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pithoragarh",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.8787,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "junagadh",
+        "state": "GUJARAT",
+        "risk_score": 0.8772,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gonda",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.877,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jaipur",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8767,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sonitpur",
+        "state": "ASSAM",
+        "risk_score": 0.8766,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sivasagar",
+        "state": "ASSAM",
+        "risk_score": 0.8766,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "uttarkashi",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.8764,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "parbhani",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.876,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ernakulam",
+        "state": "KERALA",
+        "risk_score": 0.8748,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kullu",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.8743,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lucknow",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8735,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "faizabad",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8731,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kozhikode",
+        "state": "KERALA",
+        "risk_score": 0.8708,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "goalpara",
+        "state": "ASSAM",
+        "risk_score": 0.8707,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jorhat",
+        "state": "ASSAM",
+        "risk_score": 0.8696,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rudraprayag",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.8688,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gopalganj",
+        "state": "BIHAR",
+        "risk_score": 0.8688,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "raichur",
+        "state": "KARNATAKA",
+        "risk_score": 0.8683,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "patiala",
+        "state": "PUNJAB",
+        "risk_score": 0.8669,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "palakkad",
+        "state": "KERALA",
+        "risk_score": 0.8665,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "vaishali",
+        "state": "BIHAR",
+        "risk_score": 0.8652,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ballari",
+        "state": "KARNATAKA",
+        "risk_score": 0.8646,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jodhpur",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8645,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "uttara kannada",
+        "state": "KARNATAKA",
+        "risk_score": 0.8642,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jaunpur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8641,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dakshina kannada",
+        "state": "KARNATAKA",
+        "risk_score": 0.8638,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "balaghat",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.8616,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chennai",
+        "state": "TAMIL NADU",
+        "risk_score": 0.8612,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pratapgarh",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8611,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "birbhum",
+        "state": "WEST BENGAL",
+        "risk_score": 0.8595,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sitamarhi",
+        "state": "BIHAR",
+        "risk_score": 0.857,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chandrapur",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8565,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tiruchirappalli",
+        "state": "TAMIL NADU",
+        "risk_score": 0.8553,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "golaghat",
+        "state": "ASSAM",
+        "risk_score": 0.8549,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "aligarh",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8546,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "darrang",
+        "state": "ASSAM",
+        "risk_score": 0.8545,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sindhudurg",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8543,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bareilly",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8542,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jalaun",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8538,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "solapur",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.853,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bikaner",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8527,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "aurangabad",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8525,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "munger",
+        "state": "BIHAR",
+        "risk_score": 0.8525,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "muzaffarnagar",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8515,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ghazipur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8515,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dhubri",
+        "state": "ASSAM",
+        "risk_score": 0.8506,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west godavari",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.8491,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "barmer",
+        "state": "RAJASTHAN",
+        "risk_score": 0.848,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mathura",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8477,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "purnia",
+        "state": "BIHAR",
+        "risk_score": 0.8467,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dehradun",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.8462,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nawada",
+        "state": "BIHAR",
+        "risk_score": 0.8461,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bid",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8459,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "amritsar",
+        "state": "PUNJAB",
+        "risk_score": 0.8459,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "aurangabad",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8444,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "balrampur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8432,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kalaburagi",
+        "state": "KARNATAKA",
+        "risk_score": 0.843,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hardoi",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8418,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dakshin dinajpur",
+        "state": "WEST BENGAL",
+        "risk_score": 0.8416,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "unnao",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8409,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "raigarh",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8397,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jalgaon",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8395,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "moradabad",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8378,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nalanda",
+        "state": "BIHAR",
+        "risk_score": 0.8377,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bulandshahr",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8371,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mandi",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.8365,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "araria",
+        "state": "BIHAR",
+        "risk_score": 0.8362,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "wayanad",
+        "state": "KERALA",
+        "risk_score": 0.836,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jalandhar",
+        "state": "PUNJAB",
+        "risk_score": 0.8355,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kasaragod",
+        "state": "KERALA",
+        "risk_score": 0.8354,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "budaun",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8352,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "firozabad",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8334,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mirzapur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8332,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "banda",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8321,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kanpur dehat",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8319,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sultanpur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8319,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gaya",
+        "state": "BIHAR",
+        "risk_score": 0.8314,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kanpur nagar",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8309,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "alwar",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8308,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gadchiroli",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8305,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hamirpur",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.8293,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "vadodara",
+        "state": "GUJARAT",
+        "risk_score": 0.8287,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pathanamthitta",
+        "state": "KERALA",
+        "risk_score": 0.8287,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pali",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8278,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "vizianagaram",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.827,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kolkata",
+        "state": "WEST BENGAL",
+        "risk_score": 0.8268,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "krishna",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.8268,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "siwan",
+        "state": "BIHAR",
+        "risk_score": 0.826,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jalor",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8259,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "wardha",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8258,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "raigarh",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8258,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "morigaon",
+        "state": "ASSAM",
+        "risk_score": 0.8235,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "fatehpur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8228,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tonk",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8204,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bundi",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8202,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kangra",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.8201,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "surendranagar",
+        "state": "GUJARAT",
+        "risk_score": 0.82,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kishanganj",
+        "state": "BIHAR",
+        "risk_score": 0.8196,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "coimbatore",
+        "state": "TAMIL NADU",
+        "risk_score": 0.8193,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nashik",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8192,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shahjahanpur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8192,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bhandara",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.819,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "balrampur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8184,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kheda",
+        "state": "GUJARAT",
+        "risk_score": 0.8176,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hailakandi",
+        "state": "ASSAM",
+        "risk_score": 0.8169,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bhojpur",
+        "state": "BIHAR",
+        "risk_score": 0.8161,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "prakasam",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.8154,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dharwad",
+        "state": "KARNATAKA",
+        "risk_score": 0.815,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "balrampur",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.8143,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bengaluru rural",
+        "state": "KARNATAKA",
+        "risk_score": 0.8131,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pratapgarh",
+        "state": "RAJASTHAN",
+        "risk_score": 0.813,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jhansi",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8127,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "amreli",
+        "state": "GUJARAT",
+        "risk_score": 0.8127,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "cuddalore",
+        "state": "TAMIL NADU",
+        "risk_score": 0.8115,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bilaspur",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.8101,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ajmer",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8097,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hamirpur",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.8088,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "madurai",
+        "state": "TAMIL NADU",
+        "risk_score": 0.8084,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "madhepura",
+        "state": "BIHAR",
+        "risk_score": 0.8079,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "akola",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.8071,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gurdaspur",
+        "state": "PUNJAB",
+        "risk_score": 0.8065,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "koraput",
+        "state": "ODISHA",
+        "risk_score": 0.8062,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bhilwara",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8061,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "banas kantha",
+        "state": "GUJARAT",
+        "risk_score": 0.8061,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nalbari",
+        "state": "ASSAM",
+        "risk_score": 0.8058,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kinnaur",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.8057,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "valsad",
+        "state": "GUJARAT",
+        "risk_score": 0.8055,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ramanathapuram",
+        "state": "TAMIL NADU",
+        "risk_score": 0.8039,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nagapattinam",
+        "state": "TAMIL NADU",
+        "risk_score": 0.8036,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mysuru",
+        "state": "KARNATAKA",
+        "risk_score": 0.803,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "viluppuram",
+        "state": "TAMIL NADU",
+        "risk_score": 0.8009,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "churu",
+        "state": "RAJASTHAN",
+        "risk_score": 0.8009,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kannauj",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.8005,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bangalore",
+        "state": "KARNATAKA",
+        "risk_score": 0.7999,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sangli",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.7999,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bijapur",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.7999,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rohtas",
+        "state": "BIHAR",
+        "risk_score": 0.7987,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bilaspur",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.7986,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mainpuri",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7981,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "amethi",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7972,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pilibhit",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7968,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "aizawl",
+        "state": "MIZORAM",
+        "risk_score": 0.7965,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "karbi anglong",
+        "state": "ASSAM",
+        "risk_score": 0.7959,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "navsari",
+        "state": "GUJARAT",
+        "risk_score": 0.7945,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "purba bardhaman",
+        "state": "WEST BENGAL",
+        "risk_score": 0.7938,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "anantapur",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.7938,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sri potti sriramulu nell*",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.793,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ludhiana",
+        "state": "PUNJAB",
+        "risk_score": 0.7925,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "srikakulam",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.7907,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "balrampur",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.7895,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kendrapara",
+        "state": "ODISHA",
+        "risk_score": 0.7883,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bidar",
+        "state": "KARNATAKA",
+        "risk_score": 0.7881,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kendujhar",
+        "state": "ODISHA",
+        "risk_score": 0.787,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "banka",
+        "state": "BIHAR",
+        "risk_score": 0.7857,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sambhal",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7855,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west nimar",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7851,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ganganagar",
+        "state": "RAJASTHAN",
+        "risk_score": 0.7848,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "punch",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.7844,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sambalpur",
+        "state": "ODISHA",
+        "risk_score": 0.7843,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gautam buddha nagar",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7843,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pratapgarh",
+        "state": "RAJASTHAN",
+        "risk_score": 0.7842,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "south twenty four pargan*",
+        "state": "WEST BENGAL",
+        "risk_score": 0.7837,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kasganj",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7824,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "puri",
+        "state": "ODISHA",
+        "risk_score": 0.7824,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mumbai",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.7822,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jaisalmer",
+        "state": "RAJASTHAN",
+        "risk_score": 0.7813,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gadag",
+        "state": "KARNATAKA",
+        "risk_score": 0.7812,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kokrajhar",
+        "state": "ASSAM",
+        "risk_score": 0.7795,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "baran",
+        "state": "RAJASTHAN",
+        "risk_score": 0.7792,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sirsa",
+        "state": "HARYANA",
+        "risk_score": 0.7788,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bijnor",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7787,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bhadrak",
+        "state": "ODISHA",
+        "risk_score": 0.7781,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mayurbhanj",
+        "state": "ODISHA",
+        "risk_score": 0.778,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "buxar",
+        "state": "BIHAR",
+        "risk_score": 0.7778,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bilaspur",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.7777,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bongaigaon",
+        "state": "ASSAM",
+        "risk_score": 0.7773,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "baramula",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.7772,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jalna",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.7768,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lakhisarai",
+        "state": "BIHAR",
+        "risk_score": 0.7766,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sheohar",
+        "state": "BIHAR",
+        "risk_score": 0.7765,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "farrukhabad",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7759,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "belagavi",
+        "state": "KARNATAKA",
+        "risk_score": 0.7759,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kaimur (bhabua)",
+        "state": "BIHAR",
+        "risk_score": 0.7757,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chittoor",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.7755,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "amroha",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7753,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kalahandi",
+        "state": "ODISHA",
+        "risk_score": 0.7747,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "firozpur",
+        "state": "PUNJAB",
+        "risk_score": 0.7744,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "patan",
+        "state": "GUJARAT",
+        "risk_score": 0.7729,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chamba",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.7718,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ghaziabad",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7717,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bhavnagar",
+        "state": "GUJARAT",
+        "risk_score": 0.7703,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "salem",
+        "state": "TAMIL NADU",
+        "risk_score": 0.7702,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "etah",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7698,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tiruvannamalai",
+        "state": "TAMIL NADU",
+        "risk_score": 0.7696,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mahesana",
+        "state": "GUJARAT",
+        "risk_score": 0.7695,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "baksa",
+        "state": "ASSAM",
+        "risk_score": 0.7695,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "haveri",
+        "state": "KARNATAKA",
+        "risk_score": 0.7692,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jehanabad",
+        "state": "BIHAR",
+        "risk_score": 0.769,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hisar",
+        "state": "HARYANA",
+        "risk_score": 0.769,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dhenkanal",
+        "state": "ODISHA",
+        "risk_score": 0.7685,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "idukki",
+        "state": "KERALA",
+        "risk_score": 0.7684,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "palghar",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.7679,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sirmaur",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.7671,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "yadgir",
+        "state": "KARNATAKA",
+        "risk_score": 0.767,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "raisen",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7665,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "uttar dinajpur",
+        "state": "WEST BENGAL",
+        "risk_score": 0.7664,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bilaspur",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.7662,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "buldana",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.7657,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west tripura",
+        "state": "TRIPURA",
+        "risk_score": 0.7656,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rewa",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7652,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "garhwal",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.7649,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "anantnag",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.7646,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "raipur",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.7644,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chandauli",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7643,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "anand",
+        "state": "GUJARAT",
+        "risk_score": 0.7642,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kandhamal",
+        "state": "ODISHA",
+        "risk_score": 0.7629,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hojai",
+        "state": "ASSAM",
+        "risk_score": 0.7611,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kollam",
+        "state": "KERALA",
+        "risk_score": 0.761,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sagar",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7603,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pulwama",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.7592,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sant kabir nagar",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7585,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "erode",
+        "state": "TAMIL NADU",
+        "risk_score": 0.7584,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shrawasti",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7583,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jajapur",
+        "state": "ODISHA",
+        "risk_score": 0.7583,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mandya",
+        "state": "KARNATAKA",
+        "risk_score": 0.7578,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "auraiya",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7571,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rampur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7571,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jhalawar",
+        "state": "RAJASTHAN",
+        "risk_score": 0.7569,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "arwal",
+        "state": "BIHAR",
+        "risk_score": 0.7565,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kodagu",
+        "state": "KARNATAKA",
+        "risk_score": 0.7561,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chitradurga",
+        "state": "KARNATAKA",
+        "risk_score": 0.7557,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rae bareli",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7553,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shivamogga",
+        "state": "KARNATAKA",
+        "risk_score": 0.7551,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "davanagere",
+        "state": "KARNATAKA",
+        "risk_score": 0.7548,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "udalguri",
+        "state": "ASSAM",
+        "risk_score": 0.754,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rupnagar",
+        "state": "PUNJAB",
+        "risk_score": 0.7539,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kolar",
+        "state": "KARNATAKA",
+        "risk_score": 0.7529,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kushinagar",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7526,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "panch mahals",
+        "state": "GUJARAT",
+        "risk_score": 0.7519,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "solan",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.7515,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "charaideo",
+        "state": "ASSAM",
+        "risk_score": 0.7512,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "doda",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.7506,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "yavatmal",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.7504,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chitrakoot",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7502,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "upper siang",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.7497,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jabalpur",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7496,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "koppal",
+        "state": "KARNATAKA",
+        "risk_score": 0.7495,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kaushambi",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7493,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dindigul",
+        "state": "TAMIL NADU",
+        "risk_score": 0.7492,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hassan",
+        "state": "KARNATAKA",
+        "risk_score": 0.7488,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kapurthala",
+        "state": "PUNJAB",
+        "risk_score": 0.748,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sikar",
+        "state": "RAJASTHAN",
+        "risk_score": 0.7478,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bathinda",
+        "state": "PUNJAB",
+        "risk_score": 0.7478,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sirohi",
+        "state": "RAJASTHAN",
+        "risk_score": 0.7469,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ambala",
+        "state": "HARYANA",
+        "risk_score": 0.7463,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "biswanath",
+        "state": "ASSAM",
+        "risk_score": 0.7449,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ambedkar nagar",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7433,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hoshiarpur",
+        "state": "PUNJAB",
+        "risk_score": 0.7432,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mau",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7432,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "adilabad",
+        "state": "TELANGANA",
+        "risk_score": 0.743,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chengalpattu",
+        "state": "TAMIL NADU",
+        "risk_score": 0.7429,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chirang",
+        "state": "ASSAM",
+        "risk_score": 0.7423,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dhaulpur",
+        "state": "RAJASTHAN",
+        "risk_score": 0.7421,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gir somnath",
+        "state": "GUJARAT",
+        "risk_score": 0.7419,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "y.s.r.",
+        "state": "ANDHRA PRADESH",
+        "risk_score": 0.7417,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "porbandar",
+        "state": "GUJARAT",
+        "risk_score": 0.7415,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "badgam",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.74,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "indore",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7397,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "latur",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.7395,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rajouri",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.7392,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mahrajganj",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7381,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "udhampur",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.7367,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west siang",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.7361,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sundargarh",
+        "state": "ODISHA",
+        "risk_score": 0.7358,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ranchi",
+        "state": "JHARKHAND",
+        "risk_score": 0.7356,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "satara",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.7355,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "the dangs",
+        "state": "GUJARAT",
+        "risk_score": 0.7354,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sangrur",
+        "state": "PUNJAB",
+        "risk_score": 0.7349,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "the nilgiris",
+        "state": "TAMIL NADU",
+        "risk_score": 0.7348,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nainital",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.7344,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "paschim bardhaman",
+        "state": "WEST BENGAL",
+        "risk_score": 0.734,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gandhinagar",
+        "state": "GUJARAT",
+        "risk_score": 0.7332,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nayagarh",
+        "state": "ODISHA",
+        "risk_score": 0.733,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nandurbar",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.7324,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "karnal",
+        "state": "HARYANA",
+        "risk_score": 0.7321,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "south salmara mancachar",
+        "state": "ASSAM",
+        "risk_score": 0.73,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jamui",
+        "state": "BIHAR",
+        "risk_score": 0.7296,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "baghpat",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7285,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "reasi",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.7278,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ujjain",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7268,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shamli",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7266,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "thiruvarur",
+        "state": "TAMIL NADU",
+        "risk_score": 0.7244,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bhadohi",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7243,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ganderbal",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.7238,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chhindwara",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.723,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sheikhpura",
+        "state": "BIHAR",
+        "risk_score": 0.7229,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hapur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7226,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "morena",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7222,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sabar kantha",
+        "state": "GUJARAT",
+        "risk_score": 0.722,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "east siang",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.7217,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tehri garhwal",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.7217,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chikkamagaluru",
+        "state": "KARNATAKA",
+        "risk_score": 0.7216,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "krishnagiri",
+        "state": "TAMIL NADU",
+        "risk_score": 0.721,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nagaur",
+        "state": "RAJASTHAN",
+        "risk_score": 0.7209,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "vellore",
+        "state": "TAMIL NADU",
+        "risk_score": 0.7207,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "puruliya",
+        "state": "WEST BENGAL",
+        "risk_score": 0.7207,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dhule",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.7205,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pudukkottai",
+        "state": "TAMIL NADU",
+        "risk_score": 0.7195,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "virudhunagar",
+        "state": "TAMIL NADU",
+        "risk_score": 0.7194,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "vidisha",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7191,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "khammam",
+        "state": "TELANGANA",
+        "risk_score": 0.719,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bhiwani",
+        "state": "HARYANA",
+        "risk_score": 0.7182,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jamnagar",
+        "state": "GUJARAT",
+        "risk_score": 0.7179,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kishtwar",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.7177,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "khordha",
+        "state": "ODISHA",
+        "risk_score": 0.7176,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "papum pare",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.716,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west karbi anglong",
+        "state": "ASSAM",
+        "risk_score": 0.7146,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dima hasao",
+        "state": "ASSAM",
+        "risk_score": 0.7143,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rayagada",
+        "state": "ODISHA",
+        "risk_score": 0.7139,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ahmadnagar",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.7121,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "guna",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7119,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "east district",
+        "state": "SIKKIM",
+        "risk_score": 0.7116,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jind",
+        "state": "HARYANA",
+        "risk_score": 0.7115,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "majuli",
+        "state": "ASSAM",
+        "risk_score": 0.7114,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rohtak",
+        "state": "HARYANA",
+        "risk_score": 0.7104,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hoshangabad",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7101,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "thiruvallur",
+        "state": "TAMIL NADU",
+        "risk_score": 0.7085,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "balangir",
+        "state": "ODISHA",
+        "risk_score": 0.7079,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "leh",
+        "state": "LADAKH",
+        "risk_score": 0.7072,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "narmada",
+        "state": "GUJARAT",
+        "risk_score": 0.7059,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sehore",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7059,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "morbi",
+        "state": "GUJARAT",
+        "risk_score": 0.7057,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bargarh",
+        "state": "ODISHA",
+        "risk_score": 0.7054,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hathras",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.7029,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dewas",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.7024,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "banswara",
+        "state": "RAJASTHAN",
+        "risk_score": 0.7017,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "aravalli",
+        "state": "GUJARAT",
+        "risk_score": 0.7011,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "warangal rural",
+        "state": "TELANGANA",
+        "risk_score": 0.6996,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "betul",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6981,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kancheepuram",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6979,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kaithal",
+        "state": "HARYANA",
+        "risk_score": 0.6972,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kathua",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.697,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "north tripura",
+        "state": "TRIPURA",
+        "risk_score": 0.6956,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chikkaballapura",
+        "state": "KARNATAKA",
+        "risk_score": 0.6948,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "botad",
+        "state": "GUJARAT",
+        "risk_score": 0.6935,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kallakurichi",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6929,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tawang",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.6925,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "udaipur",
+        "state": "RAJASTHAN",
+        "risk_score": 0.6912,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tiruppur",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6907,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sonipat",
+        "state": "HARYANA",
+        "risk_score": 0.6902,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "karur",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6891,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bastar",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.6878,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "medak",
+        "state": "TELANGANA",
+        "risk_score": 0.6876,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gondiya",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.6869,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sivaganga",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6861,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dausa",
+        "state": "RAJASTHAN",
+        "risk_score": 0.6845,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "yamunanagar",
+        "state": "HARYANA",
+        "risk_score": 0.6843,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mahisagar",
+        "state": "GUJARAT",
+        "risk_score": 0.6832,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "namakkal",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6832,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nizamabad",
+        "state": "TELANGANA",
+        "risk_score": 0.6828,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "warangal urban",
+        "state": "TELANGANA",
+        "risk_score": 0.6822,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "baudh",
+        "state": "ODISHA",
+        "risk_score": 0.6816,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ramban",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.6806,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bhind",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6799,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rajnandgaon",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.6797,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "subarnapur",
+        "state": "ODISHA",
+        "risk_score": 0.6789,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tapi",
+        "state": "GUJARAT",
+        "risk_score": 0.6785,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ariyalur",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6782,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gwalior",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6781,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bandipore",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.6779,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "faridabad",
+        "state": "HARYANA",
+        "risk_score": 0.6769,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ramanagara",
+        "state": "KARNATAKA",
+        "risk_score": 0.6765,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sonbhadra",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.6765,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "palamu",
+        "state": "JHARKHAND",
+        "risk_score": 0.6764,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nuapada",
+        "state": "ODISHA",
+        "risk_score": 0.6756,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "udupi",
+        "state": "KARNATAKA",
+        "risk_score": 0.674,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mansa",
+        "state": "PUNJAB",
+        "risk_score": 0.6738,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west kameng",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.673,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tumakuru",
+        "state": "KARNATAKA",
+        "risk_score": 0.6726,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chamarajanagara",
+        "state": "KARNATAKA",
+        "risk_score": 0.6723,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dharmapuri",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6717,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rajgarh",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6715,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "damoh",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6712,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mahoba",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.6693,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kupwara",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.6689,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "east khasi hills",
+        "state": "MEGHALAYA",
+        "risk_score": 0.668,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mumbai suburban",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.668,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hanumangarh",
+        "state": "RAJASTHAN",
+        "risk_score": 0.6679,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "srinagar",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.6678,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "anugul",
+        "state": "ODISHA",
+        "risk_score": 0.6639,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "udham singh nagar",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.6639,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "karauli",
+        "state": "RAJASTHAN",
+        "risk_score": 0.6624,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "burhanpur",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6621,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "perambalur",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6616,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "devbhumi dwarka",
+        "state": "GUJARAT",
+        "risk_score": 0.6616,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gajapati",
+        "state": "ODISHA",
+        "risk_score": 0.6596,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "noney",
+        "state": "MANIPUR",
+        "risk_score": 0.6595,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "fazilka",
+        "state": "PUNJAB",
+        "risk_score": 0.6586,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kurukshetra",
+        "state": "HARYANA",
+        "risk_score": 0.6576,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jhunjhunun",
+        "state": "RAJASTHAN",
+        "risk_score": 0.6574,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "purbi singhbhum",
+        "state": "JHARKHAND",
+        "risk_score": 0.6552,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ranipet",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6551,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "fatehabad",
+        "state": "HARYANA",
+        "risk_score": 0.6533,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "faridkot",
+        "state": "PUNJAB",
+        "risk_score": 0.6513,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nalgonda",
+        "state": "TELANGANA",
+        "risk_score": 0.6489,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tirupathur",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6482,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "north",
+        "state": "DELHI",
+        "risk_score": 0.6479,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dohad",
+        "state": "GUJARAT",
+        "risk_score": 0.6479,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bageshwar",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.6466,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chhatarpur",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6456,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "karimnagar",
+        "state": "TELANGANA",
+        "risk_score": 0.6451,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tenkasi",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6445,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mahabubnagar",
+        "state": "TELANGANA",
+        "risk_score": 0.6432,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ratlam",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6406,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bagalkote",
+        "state": "KARNATAKA",
+        "risk_score": 0.64,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "seoni",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6393,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jharsuguda",
+        "state": "ODISHA",
+        "risk_score": 0.6384,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dungarpur",
+        "state": "RAJASTHAN",
+        "risk_score": 0.6381,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "alipurduar",
+        "state": "WEST BENGAL",
+        "risk_score": 0.6366,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hardwar",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.636,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "osmanabad",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.6359,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "champawat",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.6359,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "narsimhapur",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6358,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jagatsinghapur",
+        "state": "ODISHA",
+        "risk_score": 0.6355,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mahasamund",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.6354,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "moga",
+        "state": "PUNJAB",
+        "risk_score": 0.6347,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west khasi hills",
+        "state": "MEGHALAYA",
+        "risk_score": 0.6339,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "panipat",
+        "state": "HARYANA",
+        "risk_score": 0.6336,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lalitpur",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.6335,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "vijayapura",
+        "state": "KARNATAKA",
+        "risk_score": 0.6333,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dhar",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6333,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "malkangiri",
+        "state": "ODISHA",
+        "risk_score": 0.632,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "unokoti",
+        "state": "TRIPURA",
+        "risk_score": 0.6318,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "una",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.6314,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "fatehgarh sahib",
+        "state": "PUNJAB",
+        "risk_score": 0.6313,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "barwani",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6299,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "north  district",
+        "state": "SIKKIM",
+        "risk_score": 0.6285,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west garo hills",
+        "state": "MEGHALAYA",
+        "risk_score": 0.6278,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "thoothukkudi",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6269,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kamrup metropolitan",
+        "state": "ASSAM",
+        "risk_score": 0.6265,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rajsamand",
+        "state": "RAJASTHAN",
+        "risk_score": 0.6241,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "south west",
+        "state": "DELHI",
+        "risk_score": 0.622,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hingoli",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.6203,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tarn taran",
+        "state": "PUNJAB",
+        "risk_score": 0.6182,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "harda",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6161,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west district",
+        "state": "SIKKIM",
+        "risk_score": 0.6131,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "theni",
+        "state": "TAMIL NADU",
+        "risk_score": 0.6102,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sri muktsar sahib",
+        "state": "PUNJAB",
+        "risk_score": 0.6101,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gomati",
+        "state": "TRIPURA",
+        "risk_score": 0.6099,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chota udaipur",
+        "state": "GUJARAT",
+        "risk_score": 0.6099,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mandla",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6079,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shupiyan",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.6072,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "north goa",
+        "state": "GOA",
+        "risk_score": 0.6059,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "south goa",
+        "state": "GOA",
+        "risk_score": 0.6057,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kargil",
+        "state": "LADAKH",
+        "risk_score": 0.6056,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bhopal",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.605,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shivpuri",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6045,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "panchkula",
+        "state": "HARYANA",
+        "risk_score": 0.6032,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mulugu",
+        "state": "TELANGANA",
+        "risk_score": 0.6031,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jayashankar",
+        "state": "TELANGANA",
+        "risk_score": 0.6029,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shahid bhagat singh nagar",
+        "state": "PUNJAB",
+        "risk_score": 0.6022,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "south tripura",
+        "state": "TRIPURA",
+        "risk_score": 0.6018,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gurugram",
+        "state": "HARYANA",
+        "risk_score": 0.6017,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mandsaur",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.6011,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ribhoi",
+        "state": "MEGHALAYA",
+        "risk_score": 0.5995,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lohit",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.5993,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "south district",
+        "state": "SIKKIM",
+        "risk_score": 0.5989,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "central",
+        "state": "DELHI",
+        "risk_score": 0.5987,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kulgam",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.5981,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "samba",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.5971,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kurung kumey",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.5964,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "datia",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5954,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "panna",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.594,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "giridih",
+        "state": "JHARKHAND",
+        "risk_score": 0.5939,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "thoubal",
+        "state": "MANIPUR",
+        "risk_score": 0.5938,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "durg",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.59,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "katni",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5894,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kamareddy",
+        "state": "TELANGANA",
+        "risk_score": 0.5889,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "singrauli",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5848,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lunglei",
+        "state": "MIZORAM",
+        "risk_score": 0.584,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lawngtlai",
+        "state": "MIZORAM",
+        "risk_score": 0.5837,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "champhai",
+        "state": "MIZORAM",
+        "risk_score": 0.5831,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "changlang",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.583,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ashoknagar",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5822,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tamenglong",
+        "state": "MANIPUR",
+        "risk_score": 0.5817,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "debagarh",
+        "state": "ODISHA",
+        "risk_score": 0.5805,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chatra",
+        "state": "JHARKHAND",
+        "risk_score": 0.5789,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sheopur",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5785,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dhalai",
+        "state": "TRIPURA",
+        "risk_score": 0.5783,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "godda",
+        "state": "JHARKHAND",
+        "risk_score": 0.5768,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "upper subansiri",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.5764,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "barnala",
+        "state": "PUNJAB",
+        "risk_score": 0.5754,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sahibganj",
+        "state": "JHARKHAND",
+        "risk_score": 0.5735,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gumla",
+        "state": "JHARKHAND",
+        "risk_score": 0.5729,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "garhwa",
+        "state": "JHARKHAND",
+        "risk_score": 0.5724,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "uttar bastar kanker",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.5712,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kra daadi",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.5708,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kanniyakumari",
+        "state": "TAMIL NADU",
+        "risk_score": 0.5706,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lahul & spiti",
+        "state": "HIMACHAL PRADESH",
+        "risk_score": 0.5682,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west",
+        "state": "DELHI",
+        "risk_score": 0.567,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "khowai",
+        "state": "TRIPURA",
+        "risk_score": 0.5646,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tikamgarh",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5645,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "vikarabad",
+        "state": "TELANGANA",
+        "risk_score": 0.5643,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "satna",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5642,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sipahijala",
+        "state": "TRIPURA",
+        "risk_score": 0.5641,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "narayanpet",
+        "state": "TELANGANA",
+        "risk_score": 0.563,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pathankot",
+        "state": "PUNJAB",
+        "risk_score": 0.5621,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "south garo hills",
+        "state": "MEGHALAYA",
+        "risk_score": 0.5618,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shajapur",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5618,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dindori",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5612,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "janjgir - champa",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.5591,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "medchal malkajgiri",
+        "state": "TELANGANA",
+        "risk_score": 0.5588,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "surguja",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.557,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lower subansiri",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.5568,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "washim",
+        "state": "MAHARASHTRA",
+        "risk_score": 0.5562,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jhajjar",
+        "state": "HARYANA",
+        "risk_score": 0.5552,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "east garo hills",
+        "state": "MEGHALAYA",
+        "risk_score": 0.5542,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "south west garo hills",
+        "state": "MEGHALAYA",
+        "risk_score": 0.5529,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "neemuch",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5526,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ramgarh",
+        "state": "JHARKHAND",
+        "risk_score": 0.5506,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rewari",
+        "state": "HARYANA",
+        "risk_score": 0.5491,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dumka",
+        "state": "JHARKHAND",
+        "risk_score": 0.5484,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "namsai",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.5473,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sidhi",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.547,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "north garo hills",
+        "state": "MEGHALAYA",
+        "risk_score": 0.5426,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hyderabad",
+        "state": "TELANGANA",
+        "risk_score": 0.542,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lower dibang valley",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.5407,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "new delhi",
+        "state": "DELHI",
+        "risk_score": 0.5388,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "anjaw",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.5353,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "palwal",
+        "state": "HARYANA",
+        "risk_score": 0.5342,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pashchimi singhbhum",
+        "state": "JHARKHAND",
+        "risk_score": 0.534,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "siang",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.5337,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nabarangapur",
+        "state": "ODISHA",
+        "risk_score": 0.5335,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bhadradri kothagudem",
+        "state": "TELANGANA",
+        "risk_score": 0.5332,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "muzaffarabad",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.5312,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "imphal east",
+        "state": "MANIPUR",
+        "risk_score": 0.5308,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jhabua",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5306,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mungeli",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.5292,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "alirajpur",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5283,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "deoghar",
+        "state": "JHARKHAND",
+        "risk_score": 0.5282,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jogulamba gadwal",
+        "state": "TELANGANA",
+        "risk_score": 0.5253,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mamit",
+        "state": "MIZORAM",
+        "risk_score": 0.524,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "khunti",
+        "state": "JHARKHAND",
+        "risk_score": 0.521,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bokaro",
+        "state": "JHARKHAND",
+        "risk_score": 0.5208,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nagarkurnool",
+        "state": "TELANGANA",
+        "risk_score": 0.5196,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "anuppur",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.5176,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mahabubabad",
+        "state": "TELANGANA",
+        "risk_score": 0.5173,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "wanaparthy",
+        "state": "TELANGANA",
+        "risk_score": 0.5173,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nirmal",
+        "state": "TELANGANA",
+        "risk_score": 0.517,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bametara",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.5158,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mirpur",
+        "state": "JAMMU & KASHMIR",
+        "risk_score": 0.5155,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pakur",
+        "state": "JHARKHAND",
+        "risk_score": 0.515,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nuh",
+        "state": "HARYANA",
+        "risk_score": 0.5141,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kalimpong",
+        "state": "WEST BENGAL",
+        "risk_score": 0.5138,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lohardaga",
+        "state": "JHARKHAND",
+        "risk_score": 0.5133,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "suryapet",
+        "state": "TELANGANA",
+        "risk_score": 0.513,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kolasib",
+        "state": "MIZORAM",
+        "risk_score": 0.5118,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west jaintia hills",
+        "state": "MEGHALAYA",
+        "risk_score": 0.5116,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "yadadri bhuvanagiri",
+        "state": "TELANGANA",
+        "risk_score": 0.5109,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "peddapalli",
+        "state": "TELANGANA",
+        "risk_score": 0.5101,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "upper dibang valley",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.5099,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "saiha",
+        "state": "MIZORAM",
+        "risk_score": 0.5098,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mahendragarh",
+        "state": "HARYANA",
+        "risk_score": 0.5095,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "imphal west",
+        "state": "MANIPUR",
+        "risk_score": 0.509,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dadra & nagar haveli",
+        "state": "DADRA & NAGAR HAVE",
+        "risk_score": 0.5088,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "puducherry",
+        "state": "PUDUCHERRY",
+        "risk_score": 0.5049,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dhamtari",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.5045,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "siddipet",
+        "state": "TELANGANA",
+        "risk_score": 0.5045,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "siddharthnagar",
+        "state": "UTTAR PRADESH",
+        "risk_score": 0.5038,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "serchhip",
+        "state": "MIZORAM",
+        "risk_score": 0.5038,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mancherial",
+        "state": "TELANGANA",
+        "risk_score": 0.5035,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jagitial",
+        "state": "TELANGANA",
+        "risk_score": 0.5015,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "east jaintia hills",
+        "state": "MEGHALAYA",
+        "risk_score": 0.5005,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "niwari",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.4994,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "charki dadri",
+        "state": "HARYANA",
+        "risk_score": 0.4984,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lower siang",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.4979,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chittaurgarh",
+        "state": "RAJASTHAN",
+        "risk_score": 0.4971,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kohima",
+        "state": "NAGALAND",
+        "risk_score": 0.497,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "narayanpur",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.495,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ranga reddy",
+        "state": "TELANGANA",
+        "risk_score": 0.4941,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "north east",
+        "state": "DELHI",
+        "risk_score": 0.4935,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "south west khasi hills",
+        "state": "MEGHALAYA",
+        "risk_score": 0.4925,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sangareddy",
+        "state": "TELANGANA",
+        "risk_score": 0.4918,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "south east",
+        "state": "DELHI",
+        "risk_score": 0.4913,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tirap",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.491,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "korba",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.4897,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "phek",
+        "state": "NAGALAND",
+        "risk_score": 0.4888,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "longding",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.486,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kamle",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.4848,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "zunheboto",
+        "state": "NAGALAND",
+        "risk_score": 0.4845,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pakke kessang",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.4805,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "east nimar",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.4791,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "baloda bazar",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.4765,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "agar malwa",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.4761,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jamtara",
+        "state": "JHARKHAND",
+        "risk_score": 0.4719,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shi yomi",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.4713,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jashpur",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.4695,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kiphire",
+        "state": "NAGALAND",
+        "risk_score": 0.4689,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "north west",
+        "state": "DELHI",
+        "risk_score": 0.4653,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "simdega",
+        "state": "JHARKHAND",
+        "risk_score": 0.4633,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dhanbad",
+        "state": "JHARKHAND",
+        "risk_score": 0.4625,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "latehar",
+        "state": "JHARKHAND",
+        "risk_score": 0.4624,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dimapur",
+        "state": "NAGALAND",
+        "risk_score": 0.4601,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lepa rada",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.4515,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kumuram bheem asifabad",
+        "state": "TELANGANA",
+        "risk_score": 0.4487,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shahdol",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.4459,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "koriya",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.4452,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hazaribagh",
+        "state": "JHARKHAND",
+        "risk_score": 0.4431,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "saraikela-kharsawan",
+        "state": "JHARKHAND",
+        "risk_score": 0.4423,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chandigarh",
+        "state": "CHANDIGARH",
+        "risk_score": 0.4375,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "churachandpur",
+        "state": "MANIPUR",
+        "risk_score": 0.4359,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "senapati",
+        "state": "MANIPUR",
+        "risk_score": 0.4352,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kabeerdham",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.4345,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mon",
+        "state": "NAGALAND",
+        "risk_score": 0.4339,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "south andaman",
+        "state": "ANDAMAN & NICOBAR",
+        "risk_score": 0.4332,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jangoan",
+        "state": "TELANGANA",
+        "risk_score": 0.4299,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "umaria",
+        "state": "MADHYA PRADESH",
+        "risk_score": 0.4273,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shahdara",
+        "state": "DELHI",
+        "risk_score": 0.4252,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pherzawl",
+        "state": "MANIPUR",
+        "risk_score": 0.4183,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ukhrul",
+        "state": "MANIPUR",
+        "risk_score": 0.4173,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kangpokpi",
+        "state": "MANIPUR",
+        "risk_score": 0.4147,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kakching",
+        "state": "MANIPUR",
+        "risk_score": 0.4108,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "peren",
+        "state": "NAGALAND",
+        "risk_score": 0.4099,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sukma",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.4098,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chandel",
+        "state": "MANIPUR",
+        "risk_score": 0.4075,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jhargram",
+        "state": "WEST BENGAL",
+        "risk_score": 0.4068,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "wokha",
+        "state": "NAGALAND",
+        "risk_score": 0.4049,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "surajpur",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.4037,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sahibzada ajit singh nag*",
+        "state": "PUNJAB",
+        "risk_score": 0.4034,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mokokchung",
+        "state": "NAGALAND",
+        "risk_score": 0.4019,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "jiribam",
+        "state": "MANIPUR",
+        "risk_score": 0.3991,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tuensang",
+        "state": "NAGALAND",
+        "risk_score": 0.3985,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "south",
+        "state": "DELHI",
+        "risk_score": 0.3983,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kondagaon",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.3917,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tirunelveli",
+        "state": "TAMIL NADU",
+        "risk_score": 0.3908,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "east kameng",
+        "state": "ARUNACHAL PRADESH",
+        "risk_score": 0.3895,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kamjong",
+        "state": "MANIPUR",
+        "risk_score": 0.3875,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "north  & middle andaman",
+        "state": "ANDAMAN & NICOBAR",
+        "risk_score": 0.3867,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tengnoupal",
+        "state": "MANIPUR",
+        "risk_score": 0.3788,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "gariaband",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.3775,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "dakshin bastar dantewada",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.3763,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "almora",
+        "state": "UTTARAKHAND",
+        "risk_score": 0.368,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "karaikal",
+        "state": "PUDUCHERRY",
+        "risk_score": 0.3636,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "longleng",
+        "state": "NAGALAND",
+        "risk_score": 0.3587,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "balod",
+        "state": "CHHATTISGARH",
+        "risk_score": 0.3531,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rajanna sircilla",
+        "state": "TELANGANA",
+        "risk_score": 0.3257,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kodarma",
+        "state": "JHARKHAND",
+        "risk_score": 0.3076,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "yanam",
+        "state": "PUDUCHERRY",
+        "risk_score": 0.3036,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bishnupur",
+        "state": "MANIPUR",
+        "risk_score": 0.2839,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "daman",
+        "state": "DAMAN & DIU",
+        "risk_score": 0.2712,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lakshadweep",
+        "state": "LAKSHADWEEP",
+        "risk_score": 0.2517,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nicobars",
+        "state": "ANDAMAN & NICOBAR",
+        "risk_score": 0.2417,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "diu",
+        "state": "DAMAN & DIU",
+        "risk_score": 0.2212,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mahe",
+        "state": "PUDUCHERRY",
+        "risk_score": 0.2199,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "east",
+        "state": "DELHI",
+        "risk_score": 0.0,
+        "source": "India Flood Inventory DFSI (Zenodo)"
+      },
+      "geometry": null
+    }
+  ]
+}

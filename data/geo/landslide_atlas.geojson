@@ -1,0 +1,338 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chamoli",
+        "risk_score": 0.95,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "rudraprayag",
+        "risk_score": 0.92,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "pithoragarh",
+        "risk_score": 0.9,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "uttarkashi",
+        "risk_score": 0.88,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tehri garhwal",
+        "risk_score": 0.85,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "bageshwar",
+        "risk_score": 0.82,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "champawat",
+        "risk_score": 0.78,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kinnaur",
+        "risk_score": 0.93,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kullu",
+        "risk_score": 0.88,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "mandi",
+        "risk_score": 0.82,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "lahaul and spiti",
+        "risk_score": 0.8,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "shimla",
+        "risk_score": 0.75,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sirmaur",
+        "risk_score": 0.72,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ramban",
+        "risk_score": 0.91,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "doda",
+        "risk_score": 0.88,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kishtwar",
+        "risk_score": 0.86,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "reasi",
+        "risk_score": 0.8,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "idukki",
+        "risk_score": 0.85,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "wayanad",
+        "risk_score": 0.9,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "palakkad",
+        "risk_score": 0.7,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "malappuram",
+        "risk_score": 0.68,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "darjeeling",
+        "risk_score": 0.88,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kalimpong",
+        "risk_score": 0.86,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "north sikkim",
+        "risk_score": 0.92,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "east sikkim",
+        "risk_score": 0.85,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west sikkim",
+        "risk_score": 0.82,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "tawang",
+        "risk_score": 0.88,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "west kameng",
+        "risk_score": 0.83,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "upper subansiri",
+        "risk_score": 0.8,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "raigad",
+        "risk_score": 0.55,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "ratnagiri",
+        "risk_score": 0.52,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "sindhudurg",
+        "risk_score": 0.48,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "kodagu",
+        "risk_score": 0.72,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "chikkamagaluru",
+        "risk_score": 0.65,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "hassan",
+        "risk_score": 0.6,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "nilgiris",
+        "risk_score": 0.75,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "coimbatore",
+        "risk_score": 0.55,
+        "source": "ISRO Landslide Atlas 2023"
+      },
+      "geometry": null
+    }
+  ]
+}

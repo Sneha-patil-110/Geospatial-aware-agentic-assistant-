@@ -1,0 +1,56 @@
+# --- Secrets (CRITICAL — never commit) ---
+.env
+.env.*
+!.env.example
+*.key
+secrets.json
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+.Python
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+streamlit.log
+*.log
+
+# --- Test / diagnostic output ---
+test_results.json
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# --- IDE / editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Caches / large binaries ---
+*.faiss
+*.index
+cache/
+.cache/

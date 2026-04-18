@@ -1,0 +1,74 @@
+{
+  "camps": [
+    {
+      "name": "Pune Municipal Relief Camp",
+      "lat": 18.5204,
+      "lon": 73.8567,
+      "type": "relief_camp",
+      "description": "Urban relief camp with medical support, clean water, and 500-person capacity for flood evacuees."
+    },
+    {
+      "name": "Hinjewadi Community Shelter",
+      "lat": 18.5908,
+      "lon": 73.7389,
+      "type": "shelter",
+      "description": "Community shelter operated by local NGO; suitable for short-term evacuation of 200 people with sanitation and first aid."
+    },
+    {
+      "name": "Mumbai Coastal Cyclone Shelter",
+      "lat": 19.0760,
+      "lon": 72.8777,
+      "type": "cyclone_shelter",
+      "description": "Purpose-built cyclone shelter close to coastal wards; reinforced building with food stock and medical kit for 800 persons."
+    },
+    {
+      "name": "Thane District Refugee Camp",
+      "lat": 19.2183,
+      "lon": 72.9781,
+      "type": "refugee_camp",
+      "description": "Rural relief camp hosting displaced families from landslide-prone villages; provides food, water, and community kitchen."
+    },
+    {
+      "name": "Raigad Evacuation Centre",
+      "lat": 18.2485,
+      "lon": 73.1305,
+      "type": "evacuation_center",
+      "description": "District evacuation centre in government school premises, equipped for monsoon flooding and cyclone evacuation."
+    },
+    {
+      "name": "Nashik Relief Base",
+      "lat": 19.9975,
+      "lon": 73.7898,
+      "type": "relief_camp",
+      "description": "Relief camp with medical team, mobile water tankers, and registration desk for displaced families from Nashik and surrounding talukas."
+    },
+    {
+      "name": "Kolhapur Flood Relief Camp",
+      "lat": 16.7050,
+      "lon": 74.2433,
+      "type": "relief_camp",
+      "description": "Seasonal flood relief camp in school premises; handles Panchganga basin displacements with food kitchen and medical support."
+    },
+    {
+      "name": "Nagpur Emergency Shelter",
+      "lat": 21.1458,
+      "lon": 79.0882,
+      "type": "shelter",
+      "description": "Urban emergency shelter serving heatwave and flash-flood evacuees with cooling centre and ORS distribution."
+    },
+    {
+      "name": "Solapur Drought Relief Camp",
+      "lat": 17.6599,
+      "lon": 75.9064,
+      "type": "relief_camp",
+      "description": "Long-term relief camp for drought-affected farmers; water tanker supply, fodder, and medical screening."
+    },
+    {
+      "name": "Ratnagiri Coastal Shelter",
+      "lat": 16.9902,
+      "lon": 73.3120,
+      "type": "cyclone_shelter",
+      "description": "Konkan coast cyclone shelter; handles Arabian Sea cyclone evacuations with backup generator and food for 3 days."
+    }
+  ]
+}

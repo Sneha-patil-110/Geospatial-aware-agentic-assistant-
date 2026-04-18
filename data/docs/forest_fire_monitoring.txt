@@ -1,0 +1,23 @@
+Forest Fire Monitoring in India — FSI and ISRO/NRSC Systems.
+
+Forest fires are monitored in near-real-time using MODIS and VIIRS satellite sensors. Data updates every 15 minutes as satellites pass over India (6 passes/day).
+
+Primary portal: https://fsiforestfire.gov.in
+- FirePointSearch: Current NRT fire hotspot query by state, date, and sensor
+- LargeForestFire/CurrentLFF: Active large forest fires requiring emergency response
+- ArchivalData: Historical fire records for analysis
+
+High-risk states and seasons:
+- Uttarakhand, Himachal Pradesh: April–June (pre-monsoon)
+- Odisha, Jharkhand, Chhattisgarh: February–May
+- Assam, Mizoram, Manipur: March–April (jhum cultivation)
+- Maharashtra, Karnataka (Sahayadri): March–May
+
+Fire Danger Rating System (FDRS):
+- Normal: Low fire risk
+- Moderate: Exercise caution
+- High: Avoid forest entry
+- Very High: Forest entry banned
+- Extreme: Emergency response activated
+
+Evacuation: Local forest officials and district administration coordinate. NDMA helpline 1078. Forest fire alerts also published on SACHET (https://sachet.ndma.gov.in).
